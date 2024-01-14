@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import Card from "./components/Card";
+import Card from "./Card";
 
 function ColumnContent() {
   // Initialize places state with an empty array
