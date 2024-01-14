@@ -1,9 +1,8 @@
 'use client';
 
 import {useState, useEffect} from 'react'
-import { Card } from '../components/Card';
-import { NavbarMain } from '../components/Navbar'; 
-
+import Card from '../components/Card';
+import { NavbarMain } from '../navbar'; 
 // import Form from '@/components/Form';
 import { Button, Checkbox, Label, TextInput } from 'flowbite-react';
 import { PlusCircle } from 'lucide-react';

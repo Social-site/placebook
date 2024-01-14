@@ -3,7 +3,8 @@
 
 import { useState } from 'react'
 import { Info } from 'lucide-react';
-import StarButton from "./StarButton";
+import { Trash2 } from 'lucide-react';
+import StarButton from './StarButton';
 
 
 const Card = ({title, info, img, userName, location}) => {
