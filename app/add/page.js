@@ -3,6 +3,7 @@
 import {useState, useEffect} from 'react'
 import Card from '../components/Card';
 import { NavbarMain } from '../components/Navbar'; 
+import { StarButton } from '../components/StarButton'; 
 // import Form from '@/components/Form';
 import { Button, Checkbox, Label, TextInput } from 'flowbite-react';
 import { PlusCircle } from 'lucide-react';
