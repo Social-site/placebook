@@ -1,7 +1,7 @@
 'use client';
 
 import {useState, useEffect} from 'react'
-import Card from '../components/Card';
+import { Card } from '../components/Card';
 import { NavbarMain } from '../components/Navbar'; 
 import { StarButton } from '../components/StarButton'; 
 // import Form from '@/components/Form';
