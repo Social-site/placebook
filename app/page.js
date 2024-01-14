@@ -1,7 +1,7 @@
 'use client'; 
 
 import React from 'react';
-import { NavbarMain } from './components/Navbar'; 
+import { NavbarMain } from './Navbar'; 
 import ThreeColumnGrid from './components/CardGrid';
 
 export default function Home() {

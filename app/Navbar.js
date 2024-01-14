@@ -42,7 +42,7 @@ export function NavbarMain() {
       className="hover:bg-blue-200 md:text-lg lg:text-xl rounded-full"
       style={{ color: '#3A8EBA' }}
     >
-      <Link href="/add">Add</Link>
+      <Link href="../add">Add</Link>
     </Button>
   </div>
         </div>
